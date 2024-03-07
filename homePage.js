@@ -1,6 +1,5 @@
 // function that exports  the appended homepage contents
 function homePage () {
-  console.log()
   const content = document.getElementById('content')
 
   const heading = document.createElement('h1')
