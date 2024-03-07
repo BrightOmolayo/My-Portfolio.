@@ -1,1 +1,1 @@
-console.log();
+(()=>{"use strict";document.addEventListener("DOMContentLoaded",(function(){console.log();const e=document.getElementById("content"),t=document.createElement("h1");t.textContent="Bright Omolayo",e.appendChild(t);const n=document.createElement("img");n.src="../image/myPicture.jpg",e.appendChild(n);const o=document.createElement("p");o.textContent="A front-end developer. I like developing beautiful, engaging, and accessible websites.",e.appendChild(o)}))})();
