@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', homePage)
 
 // switch function to change the tabs when clicked on
 document.addEventListener('DOMContentLoaded', function () {
-  const tabsContainer = document.getElementById('content')
+  const tabsContainer = document.getElementById('content2')
   // function to switch between tabs
 
   function switchTab (tab) {
