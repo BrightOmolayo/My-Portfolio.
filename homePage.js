@@ -14,5 +14,5 @@ function homePage () {
   paragraph1.textContent = 'A front-end developer. I like developing beautiful, engaging, and accessible websites.'
   content.appendChild(paragraph1)
 }
-
+console.log()
 export { homePage }
